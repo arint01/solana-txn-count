@@ -1,4 +1,4 @@
-# Integral Get Solana Transaction Count
+# Solana Transaction Count / Indexer
 
 ## Overview
 This Node.js script processes a list of Solana addresses to count their total transactions, including those of associated stake accounts.
